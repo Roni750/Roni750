@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫  Hi there, I'm Roni👋
-🌱 I’m currently learning Next.js, Angular<br><br>👯 I’m looking to collaborate on React, Node.js, Next.js<br><br>🚀 My biggest project so far was collaborating on "Sunday" - Project management app (inspired by Monday)<br><br>💬 Ask me about React, Javascript ES6<br><br>⚡ Fun fact about me: I like pineapples on my pizza
+🌱 Currently learning Next.js, Angular<br><br>👯 Looking to collaborate on React, Node.js, Next.js<br><br>🚀 My biggest project so far was collaborating on ["Sunday" - Project management app](https://sunday-twm1.onrender.com) (inspired by Monday)<br><br>💬 Ask me about React, Javascript ES6<br><br>⚡ Fun fact about me: I like pineapples on my pizza
 
 
 ## 🌐 Socials:
